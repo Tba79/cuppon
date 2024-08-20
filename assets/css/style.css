@@ -1,0 +1,21 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-brand{
+    width: 30%;
+}
+
+.foot-brand{
+    width: 30%;
+}   
+
+.bg-success{
+    background-color: #28A745!important;
+}
+
+
+.text-success{
+    color: #28A745!important;
+}
